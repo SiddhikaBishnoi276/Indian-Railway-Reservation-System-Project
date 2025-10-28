@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    4338500109
+   Passenger ID       :    5
+   Train Number       :    98765
+   Travel Date        :    2025-09-28
+   Class Type         :    AC
+   Concession Type    :    null
+   Fare               :    Rs3500.0
+   Seat Number        :    A1
+   Booking Status     :    Confirmed
+<=====================================================>

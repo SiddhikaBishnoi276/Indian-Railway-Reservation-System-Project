@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    1780022599
+   Passenger ID       :    1
+   Train Number       :    45689
+   Travel Date        :    2025-10-12
+   Class Type         :    AC
+   Concession Type    :    army
+   Fare               :    Rs400.0
+   Seat Number        :    a3
+   Booking Status     :    Confirmed
+<=====================================================>

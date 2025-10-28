@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    1940436994
+   Passenger ID       :    2
+   Train Number       :    23456
+   Travel Date        :    2025-09-26
+   Class Type         :    AC
+   Concession Type    :    null
+   Fare               :    Rs500.0
+   Seat Number        :    RAC
+   Booking Status     :    RAC
+<=====================================================>

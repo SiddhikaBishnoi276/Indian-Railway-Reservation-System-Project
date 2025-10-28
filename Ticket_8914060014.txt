@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    8914060014
+   Passenger ID       :    2
+   Train Number       :    45689
+   Travel Date        :    2025-10-12
+   Class Type         :    AC
+   Concession Type    :    senior citizen
+   Fare               :    Rs400.0
+   Seat Number        :    a1
+   Booking Status     :    Confirmed
+<=====================================================>

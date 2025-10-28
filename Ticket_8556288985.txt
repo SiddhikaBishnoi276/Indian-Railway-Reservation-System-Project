@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    8556288985
+   Passenger ID       :    2
+   Train Number       :    56789
+   Travel Date        :    2025-09-28
+   Class Type         :    General
+   Concession Type    :    null
+   Fare               :    Rs120.0
+   Seat Number        :    g3
+   Booking Status     :    Confirmed
+<=====================================================>

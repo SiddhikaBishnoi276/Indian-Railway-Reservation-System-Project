@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    8705715180
+   Passenger ID       :    9
+   Train Number       :    45689
+   Travel Date        :    2025-10-12
+   Class Type         :    AC
+   Concession Type    :    differently abled
+   Fare               :    Rs400.0
+   Seat Number        :    a6
+   Booking Status     :    Confirmed
+<=====================================================>

@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    8720582445
+   Passenger ID       :    3
+   Train Number       :    45678
+   Travel Date        :    2025-09-27
+   Class Type         :    Sleeper
+   Concession Type    :    null
+   Fare               :    Rs250.0
+   Seat Number        :    s1
+   Booking Status     :    Confirmed
+<=====================================================>

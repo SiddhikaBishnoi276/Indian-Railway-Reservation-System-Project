@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    8417325336
+   Passenger ID       :    8
+   Train Number       :    76859
+   Travel Date        :    2025-10-03
+   Class Type         :    AC
+   Concession Type    :    senior citizen
+   Fare               :    Rs7200.0
+   Seat Number        :    a2
+   Booking Status     :    Confirmed
+<=====================================================>

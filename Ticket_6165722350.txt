@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    6165722350
+   Passenger ID       :    8
+   Train Number       :    76859
+   Travel Date        :    2025-10-03
+   Class Type         :    AC
+   Concession Type    :    null
+   Fare               :    Rs9000.0
+   Seat Number        :    a1
+   Booking Status     :    Confirmed
+<=====================================================>

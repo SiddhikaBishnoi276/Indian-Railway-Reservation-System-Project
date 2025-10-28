@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    4459031479
+   Passenger ID       :    4
+   Train Number       :    45689
+   Travel Date        :    2025-10-12
+   Class Type         :    General
+   Concession Type    :    null
+   Fare               :    Rs800.0
+   Seat Number        :    G2
+   Booking Status     :    Confirmed
+<=====================================================>

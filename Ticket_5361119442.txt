@@ -1,0 +1,11 @@
+<======================== TICKET =====================>
+   PNR Number         :    5361119442
+   Passenger ID       :    1
+   Train Number       :    12345
+   Travel Date        :    2025-09-27
+   Class Type         :    General
+   Concession Type    :    null
+   Fare               :    Rs80.0
+   Seat Number        :    g1
+   Booking Status     :    Confirmed
+<=====================================================>
